@@ -1,0 +1,51 @@
+
+      <svg
+        width="854"
+        height="320"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        style="z-index:1;position:relative"
+        viewBox="0 0 854 320"
+      >
+        <style>
+      .text {   font-size: 60px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
+      .text, .desc {   animation: twinkling 4s ease-in-out infinite;  } @keyframes twinkling {   40% {     opacity: 1;   }   50% {     opacity: 0.5;   }   60% {     opacity: 1;   }   70% {     opacity: 0.5;   }   80% {     opacity: 1;   }  } 
+    </style>
+        <defs>
+              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#FF0080"/><stop offset="25%" stop-color="#FF0040"/><stop offset="50%" stop-color="#8000FF"/><stop offset="75%" stop-color="#0080FF"/><stop offset="100%" stop-color="#00FFFF"/>
+              </linearGradient>
+            </defs>
+        
+      <g transform="translate(427, 160) scale(1, 1) translate(-427, -160)">
+        <path d="" fill="url(#linear)" opacity="0.4" >
+          <animate
+              attributeName="d"
+              dur="20s"
+              repeatCount="indefinite"
+              keyTimes="0;0.333;0.667;1"
+              calcmod="spline"
+              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+              begin="0s"
+              values="M0 0L 0 240Q 213.5 280 427 250T 854 275L 854 0 Z;M0 0L 0 265Q 213.5 280 427 260T 854 250L 854 0 Z;M0 0L 0 285Q 213.5 255 427 285T 854 250L 854 0 Z;M0 0L 0 240Q 213.5 280 427 250T 854 275L 854 0 Z">
+          </animate>
+        </path>
+        <path d="" fill="url(#linear)" opacity="0.4" >
+          <animate
+            attributeName="d"
+            dur="20s"
+            repeatCount="indefinite"
+            keyTimes="0;0.333;0.667;1"
+            calcmod="spline"
+            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+            begin="-10s"
+            values="M0 0L 0 255Q 213.5 300 427 270T 854 280L 854 0 Z;M0 0L 0 270Q 213.5 240 427 240T 854 260L 854 0 Z;M0 0L 0 265Q 213.5 245 427 270T 854 285L 854 0 Z;M0 0L 0 255Q 213.5 300 427 270T 854 280L 854 0 Z">
+          </animate>
+        </path>
+      </g>
+        
+        <rect fill="#000000" height="100" width ="460" x="50%" y="30%" transform="translate(-230, -50)"  rx ="25" ry ="25" />
+         <text text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" style="fill:#00FFFF;" stroke="#FF0080" stroke-width="2" >T.E.Kavicharan</text>
+        <text text-anchor="middle" alignment-baseline="middle" x="50%" y="65%" class="desc" style="fill:#00FFFF;">engineering student who loves building games and tools that make life easier.</text>
+      </svg>
+    
