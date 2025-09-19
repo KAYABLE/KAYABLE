@@ -1,4 +1,6 @@
-<div align="center">
+<div align="center" style="position: relative; padding: 20px;">
+  <img src="assets/bg.png" alt="Cyberpunk Background" style="width: 100%; position: absolute; top: 0; left: 0; z-index: -1;">
+  <div style="position: relative; z-index: 1; background: rgba(0, 0, 0, 0.5); padding: 20px;">
 
 # 🌃 NIGHT CITY TERMINAL 🌃
 ### `> connecting to user: T.E.Kavicharan.exe`
@@ -145,4 +147,5 @@ Game Development (Unity & Godot) | Web Development (React) | GDScript & JavaScri
 
 *"Welcome to Night City, where dreams come true... for a price."*
 
+</div>
 </div>
