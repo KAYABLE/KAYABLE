@@ -45,7 +45,7 @@ Availability: Mostly focused on personal projects, but open to interesting colla
 
 <img src="https://github-readme-stats.vercel.app/api?username=KAYABLE&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=ffffff" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=T.E.Kavicharan&theme=neon-dark&hide_border=true&background=0d1117&stroke=ff00ff&ring=00ffff&fire=ff6600&currStreakLabel=ff00ff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KAYABLE&theme=neon-dark&hide_border=true&background=0d1117&stroke=ff00ff&ring=00ffff&fire=ff6600&currStreakLabel=ff00ff" />
 
 </div>
 
