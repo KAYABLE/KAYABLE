@@ -14,7 +14,8 @@
 ## 🔮 NEURAL INTERFACE ACTIVE 🔮
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:FF0040,50:8000FF,75:0080FF,100:00FFFF&height=320&section=header&text=T.E.Kavicharan&fontSize=60&fontColor=00FFFF&animation=twinkling&fontAlignY=30&desc=engineering student who loves building games and tools that make life easier.&descAlignY=65&descSize=20&stroke=FF0080&strokeWidth=2&textBg=true" alt="Profile Banner" />
+<img src="https://raw.githubusercontent.com/KAYABLE/KAYABLE/main/assets/capsule.svg" alt="Profile Banner" />
+
 </div>
 
 </div>
@@ -42,7 +43,7 @@ Availability: Mostly focused on personal projects, but open to interesting colla
 
 ## ⚡ CYBERDECK SPECS ⚡
 
-<img src="https://github-readme-stats.vercel.app/api?username=[Your username]&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=KAYABLE&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=ff00ff&icon_color=00ffff&text_color=ffffff" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=T.E.Kavicharan&theme=neon-dark&hide_border=true&background=0d1117&stroke=ff00ff&ring=00ffff&fire=ff6600&currStreakLabel=ff00ff" />
 
