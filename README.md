@@ -3,7 +3,7 @@
 # 🌃 NIGHT CITY TERMINAL 🌃
 ### `> connecting to user: T.E.Kavicharan.exe`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=435&lines=Welcome+to+Night+City;an overambitious engineering student;T.E.Kavicharan;System+Status%3A+Student" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/KAYABLE/KAYABLE/main/assets/typing.svg" alt="Typing SVG" />
 
 </div>
 
