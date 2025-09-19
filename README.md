@@ -1,5 +1,4 @@
 <div align="center" style="position: relative; padding: 20px;">
-  <img src="assets/bg.png" alt="Cyberpunk Background" style="width: 100%; position: absolute; top: 0; left: 0; z-index: -1;">
   <div style="position: relative; z-index: 1; background: rgba(0, 0, 0, 0.5); padding: 20px;">
 
 # 🌃 NIGHT CITY TERMINAL 🌃
